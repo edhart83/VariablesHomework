@@ -12,7 +12,7 @@ namespace VariablesHomework
             //Assert.IsTrue(boolean == true); // Make this pass
             double decimalValue = 99.9;
             Assert.IsTrue(decimalValue == 99.9); // Make this pass
-            float floatingDecimalValue = 25.4f;
+            float floatingDecimalValue = 25.4f; // change.
             Assert.IsTrue(floatingDecimalValue == 25.4f); // Make this pass
             //Assert.IsTrue(words == "I am a programmer now"); // Make this pass
             //Assert.IsTrue(character == 'z'); // Make this pass
